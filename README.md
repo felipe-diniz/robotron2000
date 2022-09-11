@@ -37,6 +37,6 @@ Código melhorado para corrigir bugs, como peças negativas.Adicionado um limite
 
 ## Desenvolvedor :octocat:
 
-| [<img src="https://avatars.githubusercontent.com/u/111817736?s=400&u=dd96345890b9f49cb590a83ab95eca08e654438c&v=4" width=115><br><sub>Felipe Diniz</sub>](https://github.com/felipe-diniz) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |
+| [<img src="https://avatars.githubusercontent.com/u/111817736?s=400&u=dd96345890b9f49cb590a83ab95eca08e654438c&v=4" width=115><br><sub>Felipe Diniz</sub>](https://github.com/felipe-diniz) | |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |
 | :---: | :---: | :---: 
 
