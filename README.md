@@ -31,9 +31,9 @@ Código melhorado para corrigir bugs, como peças negativas.Adicionado um limite
 
 :heavy_check_mark: `Cor`: Botões respectivos das cores, selecionam elas.
 
-## Layout ou Deploy da Aplicação :dash:
+## Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação.
+> https://felipe-diniz.github.io/robotron2000/
 
 ## Desenvolvedor :octocat:
 
