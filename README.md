@@ -35,6 +35,8 @@ Código melhorado para corrigir bugs, como peças negativas.Adicionado um limite
 
 > https://felipe-diniz.github.io/robotron2000/
 
+>https://robotron2000-rust-one.vercel.app/
+
 ## Desenvolvedor :octocat:
 
 | [<img src="https://avatars.githubusercontent.com/u/111817736?s=400&u=dd96345890b9f49cb590a83ab95eca08e654438c&v=4" width=115><br><sub>Felipe Diniz</sub>](https://github.com/felipe-diniz) 
